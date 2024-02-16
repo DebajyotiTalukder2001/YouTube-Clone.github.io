@@ -4,9 +4,30 @@
 This is NOT the official site of the company or brand identified on the page. The creator of this page is NOT affiliated with the company or brand in any way. DO NOT enter any personal information (such as logins, passwords or credit card numbers) on this site.
 
 # YouTube-Clone.github.io
-This is a This is a Clone Website of YouTube. This website is fully responsive and built using React.js, Tailwind CSS, and YouTube API. The  YouTube Clone Website is live at GitHub Pages.
+This is a Clone Website of YouTube. This website is fully responsive and built using React.js, Tailwind CSS, and YouTube API. The YouTube Clone Website is live at GitHub Pages.
 
 [Click Here]()
+
+
+<h2>Screenshots:</h2>
+
+![Screenshot (1961)](https://github.com/DebajyotiTalukder2001/YouTube-Clone.github.io/assets/136104351/e4bda287-7e19-4a8e-89b2-41e6c5138bd0)
+
+
+
+![Screenshot (1962)](https://github.com/DebajyotiTalukder2001/YouTube-Clone.github.io/assets/136104351/bef96abf-ee75-46fa-883e-d583b536c564)
+
+
+
+
+![Screenshot (1963)](https://github.com/DebajyotiTalukder2001/YouTube-Clone.github.io/assets/136104351/6ab53720-b166-455e-9516-c1d63af2c7c5)
+
+
+
+
+
+![Screenshot (1964)](https://github.com/DebajyotiTalukder2001/YouTube-Clone.github.io/assets/136104351/5a76f82b-7619-4e87-b809-0c2170d93a73)
+
 
 
 
