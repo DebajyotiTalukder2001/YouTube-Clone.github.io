@@ -186,7 +186,7 @@ function Sidebar() {
         })}
       </ul>
       <span className="hidden xl:flex flex-wrap   pl-4 text-sm text-zinc-400">{/* 2xl:flex-nowrap */}
-        &copy; 2023 
+        &copy; 2024 
         <a href="#" className=" before:content-['•'] xl:before:m-1 2xl:before:m-2">{/* 2xl:ml-2  2xl:flex-nowrap */}
            YouTube-Lite 
         </a>Made with ⚛️
