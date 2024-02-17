@@ -12,10 +12,10 @@ export default function Modal() {
                     >
                         <div className="relative mx-auto p-2 w-full max-w-2xl max-h-full">
                             {/*content*/}
-                            <div className="border-0 rounded-lg shadow-lg relative flex flex-col w-50 shadow bg-gray-700 outline-none focus:outline-none">
+                            <div className="border-0 rounded-lg shadow-lg relative flex flex-col w-50 shadow bg-gray-700 dark:bg-gray-700 outline-none focus:outline-none">
                                 {/*header*/}
                                 <div className="flex items-start justify-between p-5 border-b border-solid border-gray-400 rounded-t">
-                                    <h3 className="text-2xl font-semibold text-gray-900 dark:text-white">
+                                    <h3 className="text-2xl font-semibold text-gray-900 text-white dark:text-white">
                                         Disclaimer
                                     </h3>
                                     <button
