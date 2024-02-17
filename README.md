@@ -11,25 +11,32 @@ This is a Clone Website of YouTube. This website is fully responsive and built u
 
 [@YouTube-Clone-Build](https://github.com/DebajyotiTalukder2001/YouTube-Clone-Build)
 
+
 <h2>Screenshots:</h2>
 
-![Screenshot (1961)](https://github.com/DebajyotiTalukder2001/YouTube-Clone.github.io/assets/136104351/e4bda287-7e19-4a8e-89b2-41e6c5138bd0)
+
+
+![Screenshot (1973)](https://github.com/DebajyotiTalukder2001/YouTube-Clone.github.io/assets/136104351/bbb148d5-639c-4b74-985f-9a2e8827a172)
 
 
 
-![Screenshot (1962)](https://github.com/DebajyotiTalukder2001/YouTube-Clone.github.io/assets/136104351/bef96abf-ee75-46fa-883e-d583b536c564)
-
-
-
-
-![Screenshot (1963)](https://github.com/DebajyotiTalukder2001/YouTube-Clone.github.io/assets/136104351/6ab53720-b166-455e-9516-c1d63af2c7c5)
-
+![Screenshot (1976)](https://github.com/DebajyotiTalukder2001/YouTube-Clone.github.io/assets/136104351/75830f36-e35c-4b99-9a6f-cf3a94eef415)
 
 
 
 
-![Screenshot (1964)](https://github.com/DebajyotiTalukder2001/YouTube-Clone.github.io/assets/136104351/5a76f82b-7619-4e87-b809-0c2170d93a73)
+![Screenshot (1970)](https://github.com/DebajyotiTalukder2001/YouTube-Clone.github.io/assets/136104351/6c8ec4da-138d-4a23-acec-449bd763e204)
 
+
+
+
+![Screenshot (1977)](https://github.com/DebajyotiTalukder2001/YouTube-Clone.github.io/assets/136104351/140f6e6e-f5c3-455f-bd76-f14d24eda534)
+
+
+
+
+
+![Screenshot (1975)](https://github.com/DebajyotiTalukder2001/YouTube-Clone.github.io/assets/136104351/3d6cc516-ac04-4b87-9c0e-81ab5e4f6620)
 
 
 
