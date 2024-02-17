@@ -12,6 +12,7 @@ import { BsThreeDots } from "react-icons/bs";
 import WatchCard from '../components/WatchCard';
 import Spinner from '../components/Spinner';
 
+
 function Watch() {
 
   const [showMoreStatus,setShowMoreStatus] = useState<boolean>(false);
@@ -114,7 +115,7 @@ function Watch() {
                           </h6>
                         </div>
                         <div className='ml-auto'>
-                          <button className=" bg-white text-black rounded-full py-2 px-4 text-sm tracking-wider font-[500]">
+                          <button className=" bg-white text-black rounded-full py-2 px-4 text-sm tracking-wider font-[500]" onClick={() => window.open('https://www.youtube.com/feed/subscriptions', '_blank')}>
                             Subscribe
                           </button>
                         </div>
