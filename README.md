@@ -34,6 +34,7 @@ This is a Clone Website of YouTube. This website is fully responsive and built u
 
 
 
+![Screenshot (1978)](https://github.com/DebajyotiTalukder2001/YouTube-Clone.github.io/assets/136104351/7f4b57b2-5a75-45c9-88c3-02e5727af67b)
 
 
 ![Screenshot (1975)](https://github.com/DebajyotiTalukder2001/YouTube-Clone.github.io/assets/136104351/3d6cc516-ac04-4b87-9c0e-81ab5e4f6620)
