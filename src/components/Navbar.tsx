@@ -81,10 +81,10 @@ function Navbar() {
                     9+
                 </span>
             </div>
-            <a target="_blank" href="https://github.com/DebajyotiTalukder2001">
+            <a target="_blank" href="https://accounts.google.com/servicelogin?hl=en-gb">
                 <img 
                     className='w-9 h-9 rounded-full cursor-pointer'
-                    src="https://xsgames.co/randomusers/avatar.php?g=male" 
+                    src="https://developers.google.com/static/identity/images/branding_guideline_sample_dk_rd_sl.svg" 
                     alt="logo" 
                 />
             </a>

@@ -102,6 +102,8 @@ DELETE package.lock.json and node_modules
 
 ### `yarn start`
 
+### `yarn build`
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://create-react-app.dev/docs/getting-started/).
