@@ -9,9 +9,6 @@ This is a Clone Website of YouTube. This website is fully responsive and built u
 [Click Here](https://youtube-lite-debajyotitalukder-github.netlify.app/)
 
 
-[@YouTube-Clone-Build](https://github.com/DebajyotiTalukder2001/YouTube-Clone-Build)
-
-
 <h2>Screenshots:</h2>
 
 
