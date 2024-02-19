@@ -1,5 +1,5 @@
 import React from "react";
-
+import "../index.css";
 export default function Modal() {
     const [showModal, setShowModal] = React.useState(true);
     return (
@@ -8,14 +8,14 @@ export default function Modal() {
             {showModal ? (
                 <>
                     <div
-                        className="items-start flex overflow-x-hidden overflow-y-auto fixed inset-0 z-50 outline-none focus:outline-none  top-0 right-0 left-0  w-full md:inset-0 h-[calc(100%-1rem)] max-h-full"
+                        className="modal-fade items-start flex overflow-x-hidden overflow-y-auto fixed inset-0 z-50 outline-none focus:outline-none  top-0 right-0 left-0  w-full md:inset-0 h-[calc(100%-1rem)] max-h-full"
                     >
                         <div className="relative mx-auto p-2 w-full max-w-2xl max-h-full">
                             {/*content*/}
                             <div className="border-0 rounded-lg shadow-lg relative flex flex-col w-50 shadow bg-gray-700 outline-none focus:outline-none">
                                 {/*header*/}
                                 <div className="flex items-start justify-between p-5 border-b border-solid border-gray-400 rounded-t">
-                                    <h3 className="text-2xl font-semibold text-gray-900 text-white">
+                                    <h3 className="text-2xl font-semibold text-white">
                                         Disclaimer
                                     </h3>
                                     <button

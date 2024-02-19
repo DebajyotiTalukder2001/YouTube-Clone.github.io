@@ -22,3 +22,19 @@ body {
   border-radius: 1rem;
 }
 
+/* Keyframes for modal appearance */
+@keyframes modal-appear {
+  0% {
+      opacity: 0;
+      transform: translateY(-50px);
+  }
+  100% {
+      opacity: 1;
+      transform: translateY(0);
+  }
+}
+
+/* Apply animation to modal */
+.modal-fade {
+  animation: modal-appear 0.3s ease-out forwards;
+}
