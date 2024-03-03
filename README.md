@@ -5,7 +5,7 @@ This is NOT the official site of the company or brand identified on the page. Th
 
 # YouTube-Clone.github.io
 
-This is a cloned website of YouTube. This website is fully responsive and built using React.js, Tailwind CSS, and the YouTube API.
+This is a clone website of YouTube, which is the world's largest video platform. This website is fully responsive and built using React.js, Tailwind CSS, and the YouTube API.
 
 * Website URL: [Click Here](https://youtube-lite-github.netlify.app/)
 
