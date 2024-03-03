@@ -4,9 +4,10 @@
 This is NOT the official site of the company or brand identified on the page. The creator of this page is NOT affiliated with the company or brand in any way. DO NOT enter any personal information (such as logins, passwords or credit card numbers) on this site.
 
 # YouTube-Clone.github.io
-This is a Clone Website of YouTube. This website is fully responsive and built using React.js, Tailwind CSS, and YouTube API. The YouTube Clone Website is live at Netlify.
 
-[Click Here](https://youtube-lite-debajyotitalukder-github.netlify.app/)
+This is a Clone Website of YouTube. This website is fully responsive and built using React.js, Tailwind CSS, and YouTube API.
+
+* Website URL: [Click Here](https://youtube-lite-debajyotitalukder-github.netlify.app/)
 
 
 <h2>Screenshots:</h2>
