@@ -7,7 +7,7 @@ This is NOT the official site of the company or brand identified on the page. Th
 
 This is a Clone Website of YouTube. This website is fully responsive and built using React.js, Tailwind CSS, and YouTube API.
 
-* Website URL: [Click Here](https://youtube-lite-debajyotitalukder-github.netlify.app/)
+* Website URL: [Click Here](https://youtube-lite-github.netlify.app/)
 
 
 <h2>Screenshots:</h2>
